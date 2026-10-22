@@ -6,4 +6,6 @@ YOLO seg est utilider pour coloré les pixels des objet détectés.
 
 ## Description des codes: 
 
-***gras***
+***url***  L'url du flux webcam
+
+***model*** Le modèle YOLO que l'on choisie d'utiilisé
